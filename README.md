@@ -2,7 +2,7 @@
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxaTFnNG12dmswNndkcHE0ejZwN2xpNDV2cTcxd2c2cm9lMXlscSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.webp" style="width: 100%;">
 </div>
 
-<h1 align="center">Hi 👋, I'm Vishwas Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Akshat Chauhan</h1>
 <h3 align="center">A passionate developer exploring the world of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas-chaudhary" /> </p>
@@ -21,17 +21,17 @@
  
  <p>
   <a href="https://vaunt.dev">
-    <img src="https://api.vaunt.dev/v1/github/entities/Vishwas-Chaudhary/contributions?format=svg" width="350" title="Includes public contributions"/>
+    <img src="https://api.vaunt.dev/v1/github/entities/AkshatChan01/contributions?format=svg" width="350" title="Includes public contributions"/>
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishwas-Chaudhary" alt="Vishwas-Chaudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishwas-Chaudhary" alt="AkshatChan01" /></a> </p>
 
 ## 🌐 Socials :
 <p align="left">
-<a href="https://linkedin.com/in/vishwas-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwas-chaudhary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishwas-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishwas-chaudhary" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AkshatChan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AkshatChan01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AkshatChan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkshatChan01" height="30" width="40" /></a>
 </p>
 
 ## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -52,9 +52,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas-Chaudhary&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AkshatChan01&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkshatChan01&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatChan01&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div style="display: flex; justify-content: center; gap: 100%; align-items: center;">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU0czZjMGxuMXFvcWY0ZWJibmtjbDZ0cW5haXJhYzFobXBwbGo0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.webp" style="width: 100%;">
